@@ -20,6 +20,9 @@ void Wedding::init() {
 	}
 }
 
+// TODO 
+// 	- add an input file syntax checking mechanism
+// 		- eg. "Error on line 12: unknown property _______"
 void Wedding::setList(std::string filename) {
 	std::ifstream infile;
 	infile.open(filename);
