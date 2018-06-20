@@ -1,0 +1,8 @@
+group MaxA ErikP DaveB JonO BridgetH AliB SydneyE RoseA SheldonA KristieA MadelineA RyanG
+group MaxA ErikP DaveB MaliaS DanB
+group MaxA KristieA SheldonA LaurenA HelenH AustinG CarlyG
+couple RyanG AliB
+couple MaliaS DanB
+couple SheldonA KristieA
+couple MaxA MadelineA
+
